@@ -18,3 +18,6 @@ Table Of Contents
 - If needed, in-between ESP-32 to pass along information to display
 - Either use ESP-NOW or MATTER to communicate; not yet sure if MATTER actually provides better communication
 
+## Arduino-Mosquito-Repellent
+- https://www.digikey.com/en/maker/projects/arduino-mosquito-repellent/25716cb072eb4d179eee46b967885b97
+- Not sure if 31KHz actually repels mosquitos but worth a try
