@@ -1,8 +1,11 @@
 # FutureProjects
 my future projects with minimal detail
 
-Table Of Contents
-
+**Table Of Contents**
+* [Top](#futureprojects "Top")
+* [Bluetooth Page-Turning Pedal](#bluetooth-page\-turning-pedal "Bluetooth Page-Turning Pedal")
+* [Temp/Humidity Master Screen](#temphumidity-master-screen "Temp/Humidity Master Screen")
+* [Arduino-Mosquito-Repellent](#arduino\-mosquito\-repellent "Arduino-Mosquito-Repellent")
 
 ## Bluetooth Page-Turning Pedal
 - **$6 DIY bluetooth sheet music page turn pedal with ESP32**
