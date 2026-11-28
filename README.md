@@ -23,7 +23,7 @@ my future projects with minimal detail
 - Place several remote SHT41 or SHT45 temp sensors with ESP32 & battery inside and outside
 - "Cheap Yellow Display" with ESP32 inside to display results
 - If needed, in-between ESP-32 to pass along information to display
-- Either use ESP-NOW or MATTER to communicate; not yet sure if MATTER actually provides better communication
+- Either use ESP-NOW or MATTER to communicate; not yet sure if MATTER actually provides better communication through walls
 
 ## Arduino Mosquito Repellent
 [Top](#futureprojects "Top")<br>
